@@ -119,7 +119,7 @@ Include relevant screenshots of API requests and responses here.
 
 1. Clone the repository:
    ```sh
-   git clone https://PcNerd9/your-repo/auth-system.git
+   git clone https://github.com/PcNerd9/HNG-stage3-telex-integration.git
    ```
 2. Create a virtual environment
    ```sh
