@@ -14,7 +14,7 @@ This project implements a simple **user authentication system** that includes **
 ---
 
 ## API Endpoints
-
+**Base Url:** `https://aylon.duckdns.org`
 ### 1. Register a User
 
 **Endpoint:** `POST /register`
