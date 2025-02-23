@@ -104,6 +104,9 @@ To test the **brute force attack functionality**, run the provided test script:
 ```sh
 python test_brute_force.py
 ```
+
+This script will attempt multiple failed logins and verify if the system blocks the account and sends an alert.
+
 OR
 Try Login in with invalid password 6 times. Then go check your channel to confirm that the alert has been sent
 
@@ -111,7 +114,6 @@ AND
 
 Try login in with different Ip address with invalid password 6 times. Then go check your channel to confirm that the alert has been sent
 
-This script will attempt multiple failed logins and verify if the system blocks the account and sends an alert.
 
 ---
 
